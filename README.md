@@ -3,7 +3,7 @@
 Term project for 3D data collection using Intel Realsense stereo cameras and ROS system to understand furniture assembly by analyzing human actions and mistake detection.
 
 ## Project Overview
-MAAF is designed to detect furniture assembly actions and identify any mistakes in the process. This project offers two distinct solutions:
+This project designed to detect furniture assembly actions and identify any mistakes in the process. This project offers two distinct solutions:
 
 1. **ResNet + LSTM Model**: A robust approach that combines ResNet with LSTM for sequential data handling.
 2. **Custom Lightweight Model**: A tailored, efficient model designed for lighter computational needs.
